@@ -1,19 +1,34 @@
 body{
     font-family: 'Roboto Mono', monospace;
-    background-color:lightgrey ;
+    background-image: url(./img/pexels-Wood.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: #2e2d2d;
     height: 100vh;
+}
+
+main{
+    margin-bottom: 250px;
+}
+section#proyectos{
+    margin-top: 80px;
+    margin-left: 80px;    
 }
 
 #titular{
     text-align:right;
 }
 
+.span{
+ margin-right: 50px;
+}
+
 h1 {
    font-weight: bold;
-
 }
+
 a{
-        background-color: transparent;
+    background-color: transparent;
     border-style: none;
     text-decoration: none;
     color:#000000
@@ -23,7 +38,17 @@ a{
     font-size: 80px;
     
 }
-footer{
-    
-text-align:right; 
+footer{   
+    text-align: right; 
+    position: static;
+    background-color: #2e2d2d;
+    color:#fffdf0;
+     
+}
+
+.fab{
+    font-size:30px;
+    color:whitesmoke;
+    margin-right:5px;
+   
 }
