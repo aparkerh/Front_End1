@@ -1,0 +1,50 @@
+body{
+height: 100hv;}
+
+    header {
+    
+    text-align: center;        
+    background-color:#E5E5E5 ;
+    padding-top: 21px;
+        
+    }
+    
+    main {
+        
+   margin-top: 90px ;
+   margin-left:210px;
+   margin-right:190px;
+   
+        
+    }
+
+    h1, h3 {
+    font-weight: bold;    
+    background-color:#C4C4C4;
+    letter-spacing:10px;
+    text-transform: uppercase;       
+    color: #005677;
+    }
+    
+    h3{
+    font-size:14px;
+    line-height: 22px;
+    }    
+
+    i{
+    font-weight: bold;
+    }
+
+    span{
+        margin:75px
+    }
+
+    footer {
+    background-color: #005677; 
+    text-align: center ;
+    color:whitesmoke ;
+    width: 1340px;
+    height: 57px;
+    top: 987px; 
+    position: absolute; 
+}

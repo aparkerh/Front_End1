@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color:lightgrey ;
+    height: 100vh;
+}
+
+#titular{
+    text-align:right;
+}
+
+h1 {
+   font-weight: bold;
+
+}
+a{
+        background-color: transparent;
+    border-style: none;
+    text-decoration: none;
+    color:#000000
+}
+
+.far, .fas{
+    font-size: 80px;
+    
+}
+footer{
+    
+text-align:right; 
+}
