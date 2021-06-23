@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+
+
+a{
+text-decoration: none;
+color:gold;
+}
+
+
 section.banner{
 
   background-image: url(../img/Portada.png);
@@ -5,5 +14,18 @@ section.banner{
   background-size: cover;
   height:343px;
   color: #FFFFFF;
+  font-family: 'Noto Serif', serif;;
+  font-size:larger;
+  font-weight:bolder; 
 
+}
+
+
+#texto, #lista{
+  font-family: 'Noto Serif', serif;
+  font-style: normal;
+}
+
+footer{
+  text-align: center;
 }
