@@ -7,16 +7,33 @@ body{
     height: 100vh;
 }
 
+
 main{
     margin-bottom: 250px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    font-size: larger;
+    }
+
+
+img{
+    
+    border-radius: 50%;
+    height:150px;
+    width:150px;
+    margin-right: 890px ;
 }
-section#proyectos{
+
+#proyectos{
     margin-top: 80px;
     margin-left: 80px;    
 }
 
 #titular{
-    text-align:right;
+    
+    text-align: right;
+    float:right;
 }
 
 .span{
@@ -28,14 +45,14 @@ h1 {
 }
 
 a{
-    background-color: transparent;
+    background-color:transparent;
     border-style: none;
     text-decoration: none;
     color:#000000
 }
 
-.far, .fas{
-    font-size: 80px;
+.fas{
+    font-size: 20px;
     
 }
 footer{   
@@ -46,7 +63,11 @@ footer{
      
 }
 
+h6{
+    margin-bottom: 0px ;
+}
 .fab{
+    
     font-size:30px;
     color:whitesmoke;
     margin-right:5px;
